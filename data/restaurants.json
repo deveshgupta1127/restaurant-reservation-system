@@ -1,0 +1,722 @@
+[
+  {
+    "id": "61662957-8509-45c3-90e6-71d632f5b852",
+    "name": "GoodFoods 0",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 49,
+    "rating": 4.4,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "520e7822-2806-47a8-a5e0-0cc7cefbbee8",
+    "name": "GoodFoods 1",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Italian",
+      "Indian"
+    ],
+    "capacity": 85,
+    "rating": 4.6,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "762a092a-6c4c-4d7e-945d-94f27d797fb5",
+    "name": "GoodFoods 2",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 67,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "22a6aeab-2767-441d-b27a-3434d2098ce0",
+    "name": "GoodFoods 3",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 92,
+    "rating": 4.5,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "6966b619-e1ea-4eb4-bfe7-e7a74334610f",
+    "name": "GoodFoods 4",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Chinese"
+    ],
+    "capacity": 36,
+    "rating": 4.2,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "52f4375c-32f5-4e7d-845d-6242dccecfba",
+    "name": "GoodFoods 5",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 56,
+    "rating": 4.7,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "476b5c26-cec8-4d4e-8496-9f3ffffe8de8",
+    "name": "GoodFoods 6",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 76,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "c7198607-903d-4d98-aef6-03bd1ce167a1",
+    "name": "GoodFoods 7",
+    "location": "Madhapur",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 93,
+    "rating": 4.3,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "28775168-60fa-4b65-9f5d-0e6575f221bf",
+    "name": "GoodFoods 8",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Chinese",
+      "Mexican"
+    ],
+    "capacity": 95,
+    "rating": 3.7,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "73ad326a-de16-45c1-a12e-d5a824396e97",
+    "name": "GoodFoods 9",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Italian",
+      "Mexican"
+    ],
+    "capacity": 26,
+    "rating": 4.1,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "0d75387e-f739-4451-b0b4-fab8bd9bc2e6",
+    "name": "GoodFoods 10",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 39,
+    "rating": 4.2,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "4fc557f2-8142-4d89-a079-6363fed010d6",
+    "name": "GoodFoods 11",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 42,
+    "rating": 4.2,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "c2ed6eb2-d56c-4e3b-bb43-704e20618334",
+    "name": "GoodFoods 12",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 62,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "bcf51796-6523-4104-9237-1f50cae1d198",
+    "name": "GoodFoods 13",
+    "location": "Madhapur",
+    "cuisine": [
+      "Mexican",
+      "Chinese"
+    ],
+    "capacity": 32,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "d0caa41f-ddbb-4aa4-a6be-6e643e7ab9cb",
+    "name": "GoodFoods 14",
+    "location": "Madhapur",
+    "cuisine": [
+      "Italian",
+      "Indian"
+    ],
+    "capacity": 84,
+    "rating": 4.2,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "420cfd4b-820d-49b4-98cf-8d7aac1538ab",
+    "name": "GoodFoods 15",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 24,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "ebc7980e-7202-48bc-991b-2d53f750ffb3",
+    "name": "GoodFoods 16",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 46,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "00201313-0cdf-4972-b4a8-538fbaea1e8d",
+    "name": "GoodFoods 17",
+    "location": "Madhapur",
+    "cuisine": [
+      "Chinese",
+      "Indian"
+    ],
+    "capacity": 86,
+    "rating": 4.4,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "79ff8386-bb84-4411-bc94-d02b1f701f0b",
+    "name": "GoodFoods 18",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Chinese"
+    ],
+    "capacity": 85,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "d204fb34-f648-43ce-a0b3-7f84547f8413",
+    "name": "GoodFoods 19",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Chinese"
+    ],
+    "capacity": 84,
+    "rating": 4.4,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "81477bfe-afa2-4e17-93d0-dbdc030b90cc",
+    "name": "GoodFoods 20",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 47,
+    "rating": 4.8,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "67b7ccec-fdfb-44e8-8fed-05e0138fe7ba",
+    "name": "GoodFoods 21",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 79,
+    "rating": 3.5,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "ae55d647-a413-45df-9491-22030b72ebb4",
+    "name": "GoodFoods 22",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Chinese"
+    ],
+    "capacity": 56,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "2a9cc464-b2f0-4576-bafd-a2aa770212eb",
+    "name": "GoodFoods 23",
+    "location": "Madhapur",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 89,
+    "rating": 4.5,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "a6ebe141-d08f-4b23-9d7f-bf9f2bac51e1",
+    "name": "GoodFoods 24",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Italian",
+      "Indian"
+    ],
+    "capacity": 58,
+    "rating": 3.6,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "f7fa1259-de7b-42eb-85ac-43dd448f78bf",
+    "name": "GoodFoods 25",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Indian",
+      "Chinese"
+    ],
+    "capacity": 93,
+    "rating": 4.5,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "07094216-3022-4afa-98b5-d040e0c58785",
+    "name": "GoodFoods 26",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Chinese",
+      "Indian"
+    ],
+    "capacity": 96,
+    "rating": 3.8,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "93e72db6-e9be-4a28-bd0d-4e6be3cf2fc8",
+    "name": "GoodFoods 27",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "capacity": 30,
+    "rating": 4.2,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "598ce19e-029d-49a1-927e-8ad49b216327",
+    "name": "GoodFoods 28",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Chinese",
+      "Indian"
+    ],
+    "capacity": 79,
+    "rating": 3.6,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "3a9e4408-6041-4603-a7c1-f86c07a7ae28",
+    "name": "GoodFoods 29",
+    "location": "Madhapur",
+    "cuisine": [
+      "Italian",
+      "Mexican"
+    ],
+    "capacity": 50,
+    "rating": 3.7,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "32598bf2-9aca-4da3-8ace-bef5e2215d5f",
+    "name": "GoodFoods 30",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 90,
+    "rating": 4.1,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "27aeb58d-5a46-49fb-9ed6-37ecd65f2159",
+    "name": "GoodFoods 31",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Italian",
+      "Indian"
+    ],
+    "capacity": 22,
+    "rating": 4.3,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "74a77b07-9784-4304-a734-506e5b61b4e5",
+    "name": "GoodFoods 32",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 57,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "5b66ad51-30d3-418e-b14c-f1ad7a641c3d",
+    "name": "GoodFoods 33",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 56,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "e3f524e6-2be7-4f6d-82c3-ce05c21e78aa",
+    "name": "GoodFoods 34",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 98,
+    "rating": 3.6,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "478e9bb2-5fee-453a-a27c-ee8592170191",
+    "name": "GoodFoods 35",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 34,
+    "rating": 4.3,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "2be6c2d0-7c0e-47a3-89bb-3ff9e48f983d",
+    "name": "GoodFoods 36",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "capacity": 35,
+    "rating": 3.8,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "cba5e295-8e83-46c8-973a-bf19e533b05c",
+    "name": "GoodFoods 37",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 61,
+    "rating": 3.5,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "8515da9f-f832-4f7c-aeea-c06dc62b88ad",
+    "name": "GoodFoods 38",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Chinese",
+      "Mexican"
+    ],
+    "capacity": 87,
+    "rating": 3.7,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "56e727f4-5ac9-4180-bf3e-24226dc6d4c6",
+    "name": "GoodFoods 39",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "capacity": 55,
+    "rating": 4.8,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "2813eca2-8057-459c-8e0d-ab30c3a21016",
+    "name": "GoodFoods 40",
+    "location": "Madhapur",
+    "cuisine": [
+      "Chinese",
+      "Italian"
+    ],
+    "capacity": 98,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "a860ec90-8ea4-4b17-96f4-07512dd07791",
+    "name": "GoodFoods 41",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 75,
+    "rating": 4.4,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "cedff96e-4e44-482a-8fbd-686a4b519eaf",
+    "name": "GoodFoods 42",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Chinese",
+      "Indian"
+    ],
+    "capacity": 65,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "28894028-5970-4ab5-8fdd-8aa5324f7fe8",
+    "name": "GoodFoods 43",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 68,
+    "rating": 4.5,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "5108fbf7-6918-4559-99f9-4f969fb19557",
+    "name": "GoodFoods 44",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Mexican",
+      "Chinese"
+    ],
+    "capacity": 38,
+    "rating": 4.3,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "9f445675-aed7-4a09-80d1-4066db534e8e",
+    "name": "GoodFoods 45",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Indian",
+      "Chinese"
+    ],
+    "capacity": 60,
+    "rating": 3.8,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "8fec0b4b-51d2-43aa-947f-de2437100524",
+    "name": "GoodFoods 46",
+    "location": "Madhapur",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "capacity": 41,
+    "rating": 4.5,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "ae8b4b7e-5079-4370-9fc8-afae449061b3",
+    "name": "GoodFoods 47",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Chinese",
+      "Mexican"
+    ],
+    "capacity": 28,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "dbbe357b-1cdc-4962-8fa2-ecb68712e909",
+    "name": "GoodFoods 48",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 39,
+    "rating": 4.1,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "f45a60eb-841d-4c91-80f6-aa58c1367c38",
+    "name": "GoodFoods 49",
+    "location": "Madhapur",
+    "cuisine": [
+      "Chinese",
+      "Italian"
+    ],
+    "capacity": 75,
+    "rating": 3.8,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "21981681-0e17-4323-b226-d16d1896b6e1",
+    "name": "GoodFoods 50",
+    "location": "Gachibowli",
+    "cuisine": [
+      "Indian",
+      "Chinese"
+    ],
+    "capacity": 52,
+    "rating": 4.4,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "17b6d0d6-fb92-4296-94d8-82318bc726ed",
+    "name": "GoodFoods 51",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Mexican"
+    ],
+    "capacity": 44,
+    "rating": 3.9,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "be0760fe-576f-47b4-bd96-5f40a86736bb",
+    "name": "GoodFoods 52",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Chinese"
+    ],
+    "capacity": 93,
+    "rating": 4.0,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "61b60cc1-4338-43bf-aee2-095cb4ddd9d9",
+    "name": "GoodFoods 53",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Chinese"
+    ],
+    "capacity": 28,
+    "rating": 3.8,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "f23a8232-b449-453a-94a6-7b8fc44c9d9f",
+    "name": "GoodFoods 54",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Mexican",
+      "Italian"
+    ],
+    "capacity": 44,
+    "rating": 3.8,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "5da6b902-5210-4015-a644-079bdccd0383",
+    "name": "GoodFoods 55",
+    "location": "Madhapur",
+    "cuisine": [
+      "Indian",
+      "Italian"
+    ],
+    "capacity": 54,
+    "rating": 4.5,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "6bf2fe53-437e-4f54-b736-8712b7e8f852",
+    "name": "GoodFoods 56",
+    "location": "Madhapur",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "capacity": 74,
+    "rating": 3.5,
+    "price_range": "\u20b9\u20b9"
+  },
+  {
+    "id": "daa89c9c-76b4-457d-8583-70e17f652a2c",
+    "name": "GoodFoods 57",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Mexican",
+      "Indian"
+    ],
+    "capacity": 63,
+    "rating": 4.7,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "5666ce64-08cd-4907-bb2b-3963abf3bf9b",
+    "name": "GoodFoods 58",
+    "location": "Banjara Hills",
+    "cuisine": [
+      "Chinese",
+      "Mexican"
+    ],
+    "capacity": 100,
+    "rating": 4.8,
+    "price_range": "\u20b9\u20b9\u20b9"
+  },
+  {
+    "id": "026648e2-9f3e-491a-9dfa-076e6cfdcaae",
+    "name": "GoodFoods 59",
+    "location": "Madhapur",
+    "cuisine": [
+      "Italian",
+      "Chinese"
+    ],
+    "capacity": 62,
+    "rating": 4.3,
+    "price_range": "\u20b9\u20b9\u20b9"
+  }
+]
